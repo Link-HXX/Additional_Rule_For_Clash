@@ -6,7 +6,7 @@ payload:
     - DOMAIN-SUFFIX  , raw.githubusercontent.com # , no-resolve                                 #
     - DOMAIN-SUFFIX  , github.com # , no-resolve                                                #
 
-    - DOMAIN-SUFFIX  , down.115.com # , no-resolve                                              #          | homebrew : brew install --cask 115browser
+  # - DOMAIN-SUFFIX  , down.115.com # , no-resolve                                              #          | homebrew : brew install --cask 115browser
     - DOMAIN-SUFFIX  , dl.4kdownload.com # , no-resolve                                         #          | homebrew : brew install --cask 4k-image-compressor
     - DOMAIN-SUFFIX  , beyondgrep.com # , no-resolve                                            #          | homebrew : brew install ack
     - DOMAIN-SUFFIX  , static.adguard.com # , no-resolve                                        #          | homebrew : brew install --cask adguard

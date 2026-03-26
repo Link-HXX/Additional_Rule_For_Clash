@@ -6,7 +6,7 @@ payload:
     - '+.raw.githubusercontent.com'                                 #
     - '+.github.com'                                                #
 
-    - '+.down.115.com'                                              #          | homebrew : brew install --cask 115browser
+  # - '+.down.115.com'                                              #          | homebrew : brew install --cask 115browser
     - '+.dl.4kdownload.com'                                         #          | homebrew : brew install --cask 4k-image-compressor
     - '+.beyondgrep.com'                                            #          | homebrew : brew install ack
     - '+.static.adguard.com'                                        #          | homebrew : brew install --cask adguard
